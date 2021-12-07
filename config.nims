@@ -1,0 +1,9 @@
+--define:release
+--define:strip
+--hints:off
+--warnings:off
+--gc:orc
+--opt:size
+--passL:"-static"
+--passc:"-flto"
+--passl:"-flto"
